@@ -198,7 +198,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Various open-source libraries and tools
 
 ## 📧 Contact
-For any queries or support, please reach out to [your-email@example.com]
+For any queries or support, please reach out to [ksandeepchowdary1@outlook.com]
+
 
 ## 🔮 Future Plans
 - Mobile applications
