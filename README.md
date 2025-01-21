@@ -1,3 +1,4 @@
+LIVE DEMO: [Click Here](https://animerador.netlify.app/)
 # 🌟 AnimeRadar - Your Ultimate Anime Discovery Platform
 
 AnimeRadar is a modern, feature-rich anime streaming and discovery platform built with cutting-edge technologies. It offers a seamless experience for anime enthusiasts to discover, track, and watch their favorite shows.
